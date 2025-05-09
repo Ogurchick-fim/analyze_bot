@@ -1,6 +1,6 @@
 {
-    "telegram_bot_token":"7636665599:AAENYK9qwj3vche2bumAg2ys_oUsszjIo4M",
-    "openai_api_key":"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"
+    "telegram_bot_token":"YOUR_API_TOKEN_TELEGRAM",
+    "openai_api_key":"YOUR_API_TOKEN_OPENAI"
 }
 
 
