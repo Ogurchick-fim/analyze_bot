@@ -16,6 +16,7 @@ from telegram.ext import (
 )
 from openai import OpenAI
 
+
 # Load configuration
 with open('config.json', 'r') as file:
     data = json.load(file)
@@ -331,8 +332,6 @@ def get_ai_response(user_message: str) -> str:
 # --- Authorization Conversation Handlers ---
 # Define conversation states.
 AGE, GENDER, COUNTRY = range(3)
-
-
 
 # Allowed choices for each step
 AGE_RANGES = ['0-6', '7-11', '11-14', '15-17', '18-24', '25-34', '35-44', '45-54', '55-64', '65+']
