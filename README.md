@@ -139,4 +139,4 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 - 🧑 Timur
 - 📧 timlim.2006@gmail.com
-- 🐙 GitHub: [github.com/yourusername](https://github.com/Ogurchick-fim)
+- 🐙 GitHub: [github.com/Ogurchick-fim](https://github.com/Ogurchick-fim)
